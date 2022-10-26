@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://Vio-Eli.github.io/nbdev_test"
+  description: "testing nbdev with ipynbs"
+  repo-branch: main
+  repo-url: "https://github.com/Vio-Eli/nbdev_test"
